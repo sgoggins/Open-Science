@@ -14,7 +14,7 @@
 | b. Challenges | Challenges that the project has identified. These may or may not be used to describe the need for funding. |
 | c. Prior Success | Projects identify their previous successful outcomes. Funding request may be to build on this success, or it may be an indicator that no funding is needed for this area. |
 |---|---|
-| 2. Project Type | Base on CZI project types - Biomedical or Foundational to all scientific research |
+| 2. Project Type | Based on CZI project types - Biomedical or Foundational to all scientific research |
 | a. Foundational | The project is foundational to all scientific research: 1) ML/Data analysis, 2) Visualization, and 3) Data management/workflows|
 | b. Domain Specific | The project is specific to Biomedical Research |
 |---|---|
