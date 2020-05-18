@@ -18,7 +18,7 @@
 | a. Foundational | The project is foundational to all scientific research: 1) ML/Data analysis, 2) Visualization, and 3) Data management/workflows|
 | b. Domain Specific | The project is specific to Biomedical Research |
 |---|---|
-| 3. Project Activity| Project Key Activities|
+| 3. Project Activity| Project key activities|
 | a. New Piece of Software | The project is building a new piece of software (standalone). |
 | b. Software Improvement| The project is building a new feature within an existing piece of software. The project is improving functionality of an existing piece of software. This code may appear as a challenge, development activity, or as a goal to improve. Includes such things as optimization, scale, memory usage, and improving installation, and automation. Renamed from - New Software Feature and Merged to include improvements |
 | c. Software Maintenance | The ongoing maintenance of a project. This may include many ongoing activities, but common activities could include fixing bugs, and maintaining software interdependencies, and software testing. |
