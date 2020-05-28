@@ -14,14 +14,12 @@
 | a. Goals and Objectives | The objective or goal that the project has identified. May or may not be in response to a challenge the project has identified. For example, if the project identifies memory usage as a challenge for their software, software development to improve memory usage would be coded as a project goal. |
 | b. Challenges | Challenges that the project has identified. These may or may not be used to describe the need for funding. |
 | c. Prior Success | Projects identify their previous successful outcomes. Funding request may be to build on this success, or it may be an indicator that no funding is needed for this area. |
-|---|---|
 
 ### Code Category Name  **2. Project Type**: Based on CZI project types - Biomedical or Foundational to all scientific research
 | Code Name | Code Description |
 |---|---|
 | a. Foundational | The project is foundational to all scientific research: 1) ML/Data analysis, 2) Visualization, and 3) Data management/workflows|
 | b. Domain Specific | The project is specific to Biomedical Research |
-|---|---|
 
 ### Code Category Name  **3. Project Activity**: Project key activities
 | Code Name | Code Description |
@@ -37,7 +35,6 @@
 | i. Repository Management | Activities associated with the maintenance and management of the project’s software and documentation repositories. |
 | j. Project Measurement | Measuring project impact and productivity to improve the project. |
 | k. Research Activity | Conduct research based on project and publish papers and present research at conferences.|
-|---|---|
 
 ### Code Category Name  **4. Existing Resources**: Resource the project has identified (often connected to prior success)
 | Code Name | Code Description |
@@ -46,7 +43,6 @@
 | b. Existing Facilities, Hardware, and Equipment | Labs, offices, servers, and equipment. Examples of this could include personal computers and servers. This can include descriptions and technical specifications for existing physical assets. |
 | c. Existing Paid Contributors| Work was done or is being done by paid contributors |
 | d. Existing Financial Support| The project has or has had prior financial support. Examples of this may travel, or any other miscellaneous expenses that are not explicitly stated as people or facilities and hardware expenses. |
-|---|---|
 
 ### Code Category Name  **5. Project Funding Requests**: Money that the project is explicitly asking for in the proposal
 | Code Name | Code Description |
@@ -54,6 +50,5 @@
 | a. Request for Facilities, Hardware, and Equipment | The project requests funding for hardware that enables the project to run. Examples of this could include personal computers and servers |
 | b. Funding for Salaried Position | The project is requesting money for paid contributors. |
 | c. Request for Travel Funding | The project is requesting funds for travel. |
-|---|---|
 
 ### Code Category Name  **6. Diversity and Inclusion**: The Proposal mentions diversity and inclusion issues. This is being capture for future coding work. D&I has a seperate code book 
