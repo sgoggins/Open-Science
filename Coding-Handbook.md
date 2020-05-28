@@ -8,8 +8,7 @@
   * RQ2.2: How does funding address these challenges?
   
   
-### Code Category Name
-**1. Project**
+### Code Category Name  **1. Project**: Measures - goals - challenges - prior successes
 | Code Name | Code Description |
 |---|---|
 | a. Goals and Objectives | The objective or goal that the project has identified. May or may not be in response to a challenge the project has identified. For example, if the project identifies memory usage as a challenge for their software, software development to improve memory usage would be coded as a project goal. |
@@ -17,16 +16,14 @@
 | c. Prior Success | Projects identify their previous successful outcomes. Funding request may be to build on this success, or it may be an indicator that no funding is needed for this area. |
 |---|---|
 
-### Code Category Name
-**2. Project Type**: Based on CZI project types - Biomedical or Foundational to all scientific research
+### Code Category Name  **2. Project Type**: Based on CZI project types - Biomedical or Foundational to all scientific research
 | Code Name | Code Description |
 |---|---|
 | a. Foundational | The project is foundational to all scientific research: 1) ML/Data analysis, 2) Visualization, and 3) Data management/workflows|
 | b. Domain Specific | The project is specific to Biomedical Research |
 |---|---|
 
-### Code Category Name
-**3. Project Activity**: Project key activities
+### Code Category Name  **3. Project Activity**: Project key activities
 | Code Name | Code Description |
 |---|---|
 | a. New Piece of Software | The project is building a new piece of software (standalone). |
@@ -42,8 +39,7 @@
 | k. Research Activity | Conduct research based on project and publish papers and present research at conferences.|
 |---|---|
 
-### Code Category Name
-**4. Existing Resources**: Resource the project has identified (often connected to prior success)
+### Code Category Name  **4. Existing Resources**: Resource the project has identified (often connected to prior success)
 | Code Name | Code Description |
 |---|---|
 | a. Existing Software | The project has or has built software for a scientific purpose. This can include descriptions and technical specifications for existing software or digital assets. |
@@ -52,8 +48,7 @@
 | d. Existing Financial Support| The project has or has had prior financial support. Examples of this may travel, or any other miscellaneous expenses that are not explicitly stated as people or facilities and hardware expenses. |
 |---|---|
 
-### Code Category Name
-**5. Project Funding Requests**: Money that the project is explicitly asking for in the proposal
+### Code Category Name  **5. Project Funding Requests**: Money that the project is explicitly asking for in the proposal
 | Code Name | Code Description |
 |---|---|
 | a. Request for Facilities, Hardware, and Equipment | The project requests funding for hardware that enables the project to run. Examples of this could include personal computers and servers |
@@ -61,5 +56,4 @@
 | c. Request for Travel Funding | The project is requesting funds for travel. |
 |---|---|
 
-### Code Category Name
-**6. Diversity and Inclusion**: The Proposal mentions diversity and inclusion issues. This is being capture for future coding work. D&I has a seperate code book 
+### Code Category Name  **6. Diversity and Inclusion**: The Proposal mentions diversity and inclusion issues. This is being capture for future coding work. D&I has a seperate code book 
