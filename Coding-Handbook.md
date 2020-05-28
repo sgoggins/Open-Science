@@ -51,4 +51,6 @@
 | b. Funding for Salaried Position | The project is requesting money for paid contributors. |
 | c. Request for Travel Funding | The project is requesting funds for travel. |
 
-### Code Category Name  **6. Diversity and Inclusion**: The Proposal mentions diversity and inclusion issues. This is being capture for future coding work. D&I has a seperate code book 
+### Code Category Name  **6. Diversity and Inclusion**: The Proposal mentions diversity and inclusion issues. This is being capture for future coding work. D&I has a seperate code book
+
+**end**
